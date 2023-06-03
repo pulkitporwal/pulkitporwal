@@ -1,9 +1,9 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Pulkit Porwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw349MkPOhxqYUPFDy3GBumh&ust=1685861587967000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNimrPvBpv8CFQAAAAAdAAAAABAJ" alt="gif"/>
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw349MkPOhxqYUPFDy3GBumh&ust=1685861587967000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNimrPvBpv8CFQAAAAAdAAAAABAJ](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952drwzzyxlq1g1duyibedufqapjggnrx4jhk383n6p&ep=v1_gifs_search&rid=200w.gif&ct=g)" alt="gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pulkitporwal&label=Profile%20views&color=0e75b6&style=flat" alt="pulkitporwal" /> </p>
 
