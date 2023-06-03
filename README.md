@@ -1,4 +1,4 @@
-[![MasterHead][([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif-animation%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw1JXMARGFcgYhf0lULCRfPa&ust=1685861728406000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjUwb3Cpv8CFQAAAAAdAAAAABAJ)](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e))]
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 
 <h1 align="center">Hi 👋, I'm Pulkit Porwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
